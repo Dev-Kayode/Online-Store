@@ -1,1 +1,1 @@
-## This is a responsive webpage. The header which contains the navbar and also the hamburger menu
+#### This is a responsive webpage. The header which contains the navbar and also the hamburger menu.The hero section consits of a background image and some texts. Then we go to the product cards. There is a lso a section with videos and the services offered. They I closed it off by adding a copyright footer
